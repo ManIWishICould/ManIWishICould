@@ -25,7 +25,7 @@
 ---
 
 ## 🌐 Connect With Me  
-- 💼 [LinkedIn]([https://linkedin.com/in/](https://www.linkedin.com/in/benjamin-judd04/))  
+- 💼 [Linkedin](https://www.linkedin.com/in/benjamin-judd04/) 
 - ✉️ Email: benjudd2004@gmail.com
 - 🌍 Personal Website (coming soon!)  
 
