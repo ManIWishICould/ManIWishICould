@@ -21,7 +21,7 @@
 ---
 
 ## 🔥 Featured Projects  
-
+- [Risky File Encryption](https://github.com/ManIWishICould/Risky-File-Encryption): Simple python based file Encryption and Decryption application with a simple GUI
 ---
 
 ## 🌐 Connect With Me  
